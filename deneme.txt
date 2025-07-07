@@ -1,0 +1,3 @@
+Merhabalar bu bir dosyaya yazma örneğidir. 
+Selamlar
+ selamlar ben listeye eklendim.
